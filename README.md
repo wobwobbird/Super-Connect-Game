@@ -1,6 +1,8 @@
 # Super Connect
 
-A turn-based Connect 4–style game built in **Unity 6** (URP). Get four in a row—horizontally, vertically, or diagonally—to win.
+A two-player turn-based Connect 4–style game built in Unity 6 (URP). Get four in a row: horizontally, vertically, or diagonally to win.
+
+Full game with start scene, player naming, scoring, winning screen, music control, 3D background and animations.
 
 ---
 
