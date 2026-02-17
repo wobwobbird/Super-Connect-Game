@@ -4,6 +4,8 @@ A two-player turn-based Connect 4–style game built in Unity 6 (URP). Get four 
 
 Full game with start scene, player naming, scoring, winning screen, music control, 3D background and animations.
 
+[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
+
 ---
 
 ## Check it out
