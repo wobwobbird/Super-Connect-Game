@@ -11,10 +11,10 @@ Full game with start scene, player naming, scoring, winning screen, music contro
 ### Menu Screen
 ![Main menu](GithubImages/screenshot_menu.jpg)
 
-## Coin dropping gameplay
+### Coin dropping gameplay
 ![Gameplay 1](GithubImages/screenshot_gameplay_1.gif)
 
-## Hidden easter egg showing celebration animations
+### Hidden easter egg showing celebration animations
 ![Gameplay 2](GithubImages/screenshot_gameplay_2.gif)
 
 ---
