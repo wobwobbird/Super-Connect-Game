@@ -9,10 +9,10 @@ A turn-based Connect 4–style game built in **Unity 6** (URP). Get four in a ro
 ### Menu Screen
 ![Main menu](GithubImages/screenshot_menu.jpg)
 
-Gameplay
+## Coin dropping gameplay
 ![Gameplay 1](GithubImages/screenshot_gameplay_1.gif)
 
-Hidden easter egg showing celebration animations
+## Hidden easter egg showing celebration animations
 ![Gameplay 2](GithubImages/screenshot_gameplay_2.gif)
 
 ---
